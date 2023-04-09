@@ -11,6 +11,7 @@ Fireup the terminal
 Goto the application directory and hit
 
 npm install
+
 npm start
 
 Your app starts..

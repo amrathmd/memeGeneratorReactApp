@@ -1,2 +1,2 @@
-# memeGeneratorReactApp
-memeGeneratorReactApp
+# memeGenratorUsingReact
+Created with CodeSandbox

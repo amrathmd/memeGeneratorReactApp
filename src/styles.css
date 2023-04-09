@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  background-color: purple;
+  padding: 10px;
+}
+.navbar > h1 {
+  color: white;
+  padding-left: 5px;
+}
+#Image {
+  height: 500px;
+  max-width: 100%;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+#getImage {
+  padding: 10px;
+  background-color: blueviolet;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  font-weight: bolder;
+}
+#imageContainer {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+}
+#logo {
+  height: 50px;
+  padding-top: 3px;
+}
+.form > form > input {
+  padding: 5px;
+  margin: 5px;
+  border: solid black 2px;
+  padding: 20px;
+}
+#topData {
+  position: absolute;
+  color: white;
+  font-size: 60px;
+  top: 5%;
+  padding: 10px;
+  text-align: center;
+}
+#bottomData {
+  position: absolute;
+  color: white;
+  top: 60%;
+  font-size: 60px;
+  padding: 10px;
+}
